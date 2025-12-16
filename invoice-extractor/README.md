@@ -1,4 +1,5 @@
-# 📄 Invoice Extractor - Document Processing Application
+# 📄 Invoice Extractor
+ Processing Application
 
 A full-stack application that extracts structured data from invoice documents and creates database records dynamically.
 
